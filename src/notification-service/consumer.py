@@ -1,5 +1,5 @@
 import pika, sys, os
-from send import email
+import email
 
 def main():
     # rabbitmq connection
